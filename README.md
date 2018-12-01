@@ -1,5 +1,5 @@
 # Lista obecnosci
-Michal Witkowski
+
 
 
 
@@ -18,5 +18,5 @@ Dominik Wojdyła
 
 
 
-Jan Sikorski
+
 
