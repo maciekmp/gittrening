@@ -18,5 +18,5 @@ Krzysztof Magdziak
 Dominik Wojdyła
 Jan Sikorski
 Robert Smigrocki
-
+Konrad Stankiewicz
 naprawiłem
