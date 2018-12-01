@@ -1,4 +1,4 @@
-﻿﻿# Lista obecnosci
+﻿﻿﻿# Lista obecnosci
 1. Dariusz Uss
 2. Jan Sikorskit
 3. Paweł Kochanek
@@ -10,3 +10,4 @@
 9. Robert Smigrocki
 10. Mariusz Krzych
 11. Kasia Konstanty
+12. Kasia Chudobska
