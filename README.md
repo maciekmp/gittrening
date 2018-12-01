@@ -14,6 +14,7 @@ Krzysztof Magdziak
 Dominik Wojdyła
 Jan Sikorski
 Robert Smigrocki
-Dariusz Uss
 
+* Dariusz Uss
+Mariusz Krzych
 
