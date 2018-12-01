@@ -2,6 +2,7 @@
 # Lista obecnosci
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 * Dariusz Uss
 *  Sikorskigit
@@ -46,6 +47,10 @@ Mariusz Krzych
 >>>>>>> 5bf5caef6b412af47e7fdea29cf4178263e04fca
 =======
 =======
+=======
+* Kasia Konstanty
+*Kasia Chudobska
+>>>>>>> 2a5ea9609b5936e91c6840e4915fd4031c1c1e69
 * Dariusz Uss
 * Rafał Sudnikiewicz
 * Krzysztof Magdziak
@@ -56,6 +61,7 @@ Mariusz Krzych
 * Michal Witkowski
 * Robert Smigrocki
 * Mariusz Krzych
+<<<<<<< HEAD
 * Marcin Mazur
 * Kasia
 <<<<<<< HEAD
@@ -67,3 +73,6 @@ Mariusz Krzych
 =======
 * Kasia
 >>>>>>> e216ee72291ecfb2aad1b0fc8b192852fbb376c6
+=======
+* Konrad Stankiewicz
+>>>>>>> 2a5ea9609b5936e91c6840e4915fd4031c1c1e69
