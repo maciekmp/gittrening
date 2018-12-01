@@ -13,4 +13,5 @@
 12. Kasia Chudobska
 13. Konrad Stankiewicz
 14. Marcin Mazur
+15. Mariusz Omernik
 
