@@ -1,4 +1,4 @@
-# Lista obecnosci
+﻿# Lista obecnosci
 Michal Witkowski
 
 
@@ -15,7 +15,7 @@ Dominik Wojdyła
 
 
 
-
+Marcin Mazur
 
 
 Jan Sikorski
