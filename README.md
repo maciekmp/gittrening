@@ -14,7 +14,7 @@ Jan Sikorski
 Robert Smigrocki
 Mariusz Krzych
 * Kasia Konstanty
-*Kasia Chudobska
+* Kasia Chudobska
 =======
 # Dariusz Uss
 # Paweł Kochanek
@@ -37,11 +37,4 @@ Mariusz Krzych
 * Robert Smigrocki
 * Mariusz Krzych
 * Kasia
-<<<<<<< HEAD
-* Kasia
->>>>>>> f31108eebcaa322b70ba3e599657bb8d4f304aaa
 
->>>>>>> 5bf5caef6b412af47e7fdea29cf4178263e04fca
-=======
-* Kasia
->>>>>>> e216ee72291ecfb2aad1b0fc8b192852fbb376c6
