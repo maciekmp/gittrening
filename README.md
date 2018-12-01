@@ -1,4 +1,7 @@
-# Lista obecnosci
+
+Dariusz Uss
+
+Jan Sikorskigit
 Paweł Kochanek
 Michal Witkowski
 Rafał Sudnikiewicz
