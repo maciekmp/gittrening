@@ -1,6 +1,6 @@
 # Lista obecnosci
 Dariusz Uss
-
+Piotr Gajda
 Jan Sikorskigit
 Paweł Kochanek
 Michal Witkowski
