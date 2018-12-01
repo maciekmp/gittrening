@@ -1,4 +1,4 @@
-# Lista obecnosci
+﻿# Lista obecnosci
 1. Dariusz Uss
 2. Jan Sikorskit
 3. Paweł Kochanek
@@ -8,3 +8,6 @@
 7. Dominik Wojdyła
 8. Jan Sikorski
 9. Robert Smigrocki
+10. Mariusz Krzych
+11. Kasia Konstanty
+
