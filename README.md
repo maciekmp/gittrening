@@ -1,4 +1,17 @@
 # Lista obecnosci
-1. Michal
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan Sikorski
 
