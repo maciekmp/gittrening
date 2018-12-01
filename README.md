@@ -1,22 +1,6 @@
 # Lista obecnosci
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Jan Sikorski
-
-=======
 1. Dariusz Uss
 2. Jan Sikorskit
 3. Paweł Kochanek
@@ -30,4 +14,5 @@ Jan Sikorski
 11. Kasia Konstanty
 12. Kasia Chudobska
 13. Konrad Stankiewicz
->>>>>>> e416dde330937a2c09bd057261f14a572bef1b78
+14. Marcin Mazur
+
