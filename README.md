@@ -12,3 +12,4 @@
 * Mariusz Krzych
 * Kasia
 * Kasia
+* Konrad Stankiewicz
