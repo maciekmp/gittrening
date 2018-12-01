@@ -17,4 +17,5 @@ Robert Smigrocki
 
 * Dariusz Uss
 Mariusz Krzych
-
+* Kasia Konstanty
+git
