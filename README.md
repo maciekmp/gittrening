@@ -1,4 +1,5 @@
 # Lista obecnosci
+Paweł Kochanek
 Michal Witkowski
 
 
