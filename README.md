@@ -1,7 +1,7 @@
 # Lista obecnosci
 * Dariusz Uss
 * Piotr Gajda
-* Jan Sikorskigit
+* Jan Sikorski
 * Paweł Kochanek
 * Michal Witkowski
 * Rafał Sudnikiewicz
@@ -10,4 +10,3 @@
 * Jan Sikorski
 * Robert Smigrocki
 * Mariusz Krzych
-* Kasia Konstanty
