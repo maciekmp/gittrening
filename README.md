@@ -1,5 +1,7 @@
 
 # Lista obecnosci
+* Kasia Konstanty
+*Kasia Chudobska
 * Dariusz Uss
 * Rafał Sudnikiewicz
 * Krzysztof Magdziak
@@ -10,6 +12,4 @@
 * Michal Witkowski
 * Robert Smigrocki
 * Mariusz Krzych
-* Kasia
-* Kasia
 * Konrad Stankiewicz
