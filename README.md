@@ -4,21 +4,8 @@
 Dariusz Uss
 
 
-
 =======
 # Lista obecnosci
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Jan Sikorski
