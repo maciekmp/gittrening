@@ -1,4 +1,6 @@
 # Lista obecnosci
+
+Jan Sikorski
 1. Dariusz Uss
 2. Jan Sikorskit
 3. Paweł Kochanek
@@ -12,3 +14,5 @@
 11. Kasia Konstanty
 12. Kasia Chudobska
 13. Konrad Stankiewicz
+14. Marcin Mazur
+
