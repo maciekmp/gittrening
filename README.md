@@ -1,17 +1,4 @@
 # Lista obecnosci
-<<<<<<< HEAD
-* Dariusz Uss
-* Piotr Gajda
-* Jan Sikorski
-* Paweł Kochanek
-* Michal Witkowski
-* Rafał Sudnikiewicz
-* Krzysztof Magdziak
-* Dominik Wojdyła
-* Jan Sikorski
-* Robert Smigrocki
-* Mariusz Krzych
-=======
 1. Dariusz Uss
 2. Jan Sikorskit
 3. Paweł Kochanek
@@ -25,4 +12,3 @@
 11. Kasia Konstanty
 12. Kasia Chudobska
 13. Konrad Stankiewicz
->>>>>>> e416dde330937a2c09bd057261f14a572bef1b78
