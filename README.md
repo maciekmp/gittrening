@@ -10,3 +10,4 @@ Dominik Wojdyła
 Jan Sikorski
 Robert Smigrocki
 Mariusz Krzych
+* Kasia Konstanty
