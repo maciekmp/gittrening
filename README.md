@@ -1,6 +1,4 @@
 # Lista obecnosci
-
-Jan Sikorski
 1. Dariusz Uss
 2. Jan Sikorskit
 3. Paweł Kochanek
