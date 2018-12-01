@@ -14,5 +14,5 @@
 13. Konrad Stankiewicz
 14. Marcin Mazur
 15. Mariusz Omernik
-
+16. Piotr Gajda
 
