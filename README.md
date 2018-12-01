@@ -9,4 +9,4 @@ Krzysztof Magdziak
 Dominik Wojdyła
 Jan Sikorski
 Robert Smigrocki
-Mariusz Krzych
+* Mariusz Krzych
