@@ -3,5 +3,6 @@ public class Hello2 {
         System.out.println("Marcin Mazur");
         System.out.println("Konrad Stankiewicz");
         System.out.println("Krzysztof Magdziak");
+        System.out.println("Katarzyna Chudobska");
     }
 }
