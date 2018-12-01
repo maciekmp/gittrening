@@ -1,7 +1,7 @@
 # Lista obecnosci
 
 
-
+Krzysztof Magdziak
 
 
 
