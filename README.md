@@ -1,4 +1,6 @@
 # Lista obecnosci
 
+Dariusz Uss
+
 
 
