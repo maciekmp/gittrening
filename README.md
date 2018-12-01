@@ -6,3 +6,4 @@ Krzysztof Magdziak
 Dominik Wojdyła
 Jan Sikorski
 Robert Smigrocki
+Mariusz Omernik
