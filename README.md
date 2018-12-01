@@ -1,4 +1,6 @@
+
 # Lista obecnosci
+<<<<<<< HEAD
 <<<<<<< HEAD
 Dariusz Uss
 Piotr Gajda
@@ -23,5 +25,19 @@ Mariusz Krzych
 # Jan Sikorski
 # Robert Smigrocki
 # Mariusz Krzych
+=======
+* Dariusz Uss
+* Rafał Sudnikiewicz
+* Krzysztof Magdziak
+* Dominik Wojdyła
+* Dariusz Uss
+* Jan Sikorski
+* Paweł Kochanek
+* Michal Witkowski
+* Robert Smigrocki
+* Mariusz Krzych
+* Kasia
+* Kasia
+>>>>>>> f31108eebcaa322b70ba3e599657bb8d4f304aaa
 
 >>>>>>> 5bf5caef6b412af47e7fdea29cf4178263e04fca
