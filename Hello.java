@@ -6,7 +6,5 @@ public class Hello{
     System.out.println("Dariusz Uss\n");
     System.out.println("Robert Smigrocki\n");
     System.out.println("Michal Witkowski");
-
-
   }
 }
